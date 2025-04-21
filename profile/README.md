@@ -1,4 +1,4 @@
-# 🌲 Timberly
+# 🪵 Timberly
 
 **Built for engineers. Powered by SQL.**  
 Timberly is a modern log management platform that makes it easy to ingest, process, query, and export logs — all in real time.
