@@ -7,12 +7,13 @@ Timberly is a modern log management platform that makes it easy to ingest, proce
 
 ## 🔧 Key Features
 
-- **Ingest from anywhere** – Send logs from any service, server, or platform
+- **Ingest from anywhere** – Ingest logs from a wide variety of platforms
 - **Real-time processing** – Transform logs on the fly with powerful rules
 - **SQL querying** – Use standard SQL to filter, aggregate, and analyze logs
+- **AI-Powered Insights** – Utilize natural language to SQL conversion, smart log analysis, and automated anomaly detection
 - **Multi-destination export** – Send processed logs to the tools you already use
-- **Lightning-fast pipelines** – Built for performance at any scale
-- **Simple, predictable pricing** – Pay only for what you use
+- **Scalable Storage** – Store massive log volumes affordably with always-on compression and object storage
+- **Instant Alerts** – Set up real-time notifications based on log patterns
 
 ---
 
